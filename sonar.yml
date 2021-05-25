@@ -1,0 +1,4 @@
+---
+- hosts: all
+  roles:
+    - capitanh.sonar_ansible_role
